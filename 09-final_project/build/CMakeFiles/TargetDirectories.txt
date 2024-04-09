@@ -1,3 +1,0 @@
-C:/Users/ZHQI/Desktop/learn_cmake/09-final_project/build/CMakeFiles/test1.dir
-C:/Users/ZHQI/Desktop/learn_cmake/09-final_project/build/CMakeFiles/edit_cache.dir
-C:/Users/ZHQI/Desktop/learn_cmake/09-final_project/build/CMakeFiles/rebuild_cache.dir

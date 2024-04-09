@@ -1,0 +1,3 @@
+"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\hello.dir/objects.a
+D:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\hello.dir/objects.a @CMakeFiles\hello.dir\objects1.rsp
+D:\msys64\ucrt64\bin\c++.exe -shared -o C:\Users\ZHQI\Desktop\learn_cmake\learn-cmake\09-final_project\bin\libhello.dll -Wl,--out-implib,libhello.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\hello.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\hello.dir\linklibs.rsp
