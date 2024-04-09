@@ -1,0 +1,11 @@
+C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/CMakeFiles/edit_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/CMakeFiles/rebuild_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src/CMakeFiles/main.dir
+C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src/CMakeFiles/edit_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src/module0/CMakeFiles/module0.dir
+C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src/module0/CMakeFiles/edit_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src/module0/CMakeFiles/rebuild_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src/module1/CMakeFiles/module1.dir
+C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src/module1/CMakeFiles/edit_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src/module1/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\module0.dir/objects.a
+D:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\module0.dir/objects.a @CMakeFiles\module0.dir\objects1.rsp
+D:\msys64\ucrt64\bin\c++.exe -shared -o C:\Users\ZHQI\Desktop\learn_cmake\learn-cmake\10-large_project\bin\libmodule0.dll -Wl,--out-implib,libmodule0.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\module0.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\module0.dir\linklibs.rsp
