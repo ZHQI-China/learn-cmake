@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\ZHQI\\Desktop\\learn_cmake\\learn-cmake\\10-large_project\\src\\main.cpp",
+  "file": "C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/src/main.cpp"
+},
+{
+  "directory": "C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src/module0",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -Dmodule0_EXPORTS @CMakeFiles/module0.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\module0.dir\\hello.cpp.obj -c C:\\Users\\ZHQI\\Desktop\\learn_cmake\\learn-cmake\\10-large_project\\src\\module0\\hello.cpp",
+  "file": "C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/src/module0/hello.cpp"
+},
+{
+  "directory": "C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/build/src/module1",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -Dmodule1_EXPORTS @CMakeFiles/module1.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles\\module1.dir\\hello1.cpp.obj -c C:\\Users\\ZHQI\\Desktop\\learn_cmake\\learn-cmake\\10-large_project\\src\\module1\\hello1.cpp",
+  "file": "C:/Users/ZHQI/Desktop/learn_cmake/learn-cmake/10-large_project/src/module1/hello1.cpp"
+}
+]

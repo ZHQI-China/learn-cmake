@@ -1,10 +1,11 @@
 #pragma once
 
-class Hello{
-    public:
-        Hello(){};
-        ~Hello(){};
-        void print();
-    private:
-        int a;
+class Hello {
+public:
+    Hello(){};
+    ~Hello(){};
+    void print();
+
+private:
+    int a;
 };
