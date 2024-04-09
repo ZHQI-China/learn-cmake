@@ -1,0 +1,7 @@
+C:/Users/ZHQI/Desktop/learn_cmake/06-fourth_project/build/CMakeFiles/Animal.dir
+C:/Users/ZHQI/Desktop/learn_cmake/06-fourth_project/build/CMakeFiles/edit_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/06-fourth_project/build/CMakeFiles/rebuild_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/06-fourth_project/build/animal/CMakeFiles/dog_obj.dir
+C:/Users/ZHQI/Desktop/learn_cmake/06-fourth_project/build/animal/CMakeFiles/cat_obj.dir
+C:/Users/ZHQI/Desktop/learn_cmake/06-fourth_project/build/animal/CMakeFiles/edit_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/06-fourth_project/build/animal/CMakeFiles/rebuild_cache.dir

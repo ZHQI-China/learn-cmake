@@ -1,0 +1,6 @@
+C:/Users/ZHQI/Desktop/learn_cmake/05-third_project/build/CMakeFiles/Animal.dir
+C:/Users/ZHQI/Desktop/learn_cmake/05-third_project/build/CMakeFiles/edit_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/05-third_project/build/CMakeFiles/rebuild_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/05-third_project/build/animal/CMakeFiles/AnimalLib.dir
+C:/Users/ZHQI/Desktop/learn_cmake/05-third_project/build/animal/CMakeFiles/edit_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/05-third_project/build/animal/CMakeFiles/rebuild_cache.dir

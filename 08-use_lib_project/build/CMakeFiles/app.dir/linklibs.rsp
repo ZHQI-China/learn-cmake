@@ -1,0 +1,1 @@
+  -L"C:/Users/ZHQI/Desktop/learn_cmake/08-use_lib_project/lib"  -lanimal_dynamic -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

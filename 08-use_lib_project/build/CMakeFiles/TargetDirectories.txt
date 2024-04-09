@@ -1,0 +1,3 @@
+C:/Users/ZHQI/Desktop/learn_cmake/08-use_lib_project/build/CMakeFiles/app.dir
+C:/Users/ZHQI/Desktop/learn_cmake/08-use_lib_project/build/CMakeFiles/edit_cache.dir
+C:/Users/ZHQI/Desktop/learn_cmake/08-use_lib_project/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+D:\PROGRA~2\mingw-64\MINGW6~2\bin\ar.exe qc libAnimalLib.a CMakeFiles/AnimalLib.dir/dog.cpp.obj CMakeFiles/AnimalLib.dir/cat.cpp.obj
+D:\PROGRA~2\mingw-64\MINGW6~2\bin\ranlib.exe libAnimalLib.a

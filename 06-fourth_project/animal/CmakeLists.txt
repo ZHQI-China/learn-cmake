@@ -1,0 +1,13 @@
+#add_library(AnimalLib dog.cpp cat.cpp) # 创建库
+
+# lib object 3.12后使用， 不生产 .a 文件
+
+# 方式1：创建一个 object
+# add_library(animal_obj OBJECT dog.cpp cat.cpp)
+# target_include_directories(animal_obj PUBLIC .)
+
+# 方式2：分别创建 object
+add_library(dog_obj OBJECT dog.cpp)
+add_library(cat_obj OBJECT cat.cpp)
+target_include_directories(dog_obj PUBLIC .)
+target_include_directories(cat_obj PUBLIC .)

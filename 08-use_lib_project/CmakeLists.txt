@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.20)
+project(Animal CXX)
+
+# 链接静态库
+# include_directories(${PROJECT_SOURCE_DIR}/include)
+# link_directories(${PROJECT_SOURCE_DIR}/lib)
+# link_libraries(animal_static)
+# add_executable(app main.cpp)
+
+# 链接动态库 ! bat 中新增 copy 语句
+include_directories(${PROJECT_SOURCE_DIR}/include)  # 添加头文件路径
+link_directories(${PROJECT_SOURCE_DIR}/lib)         # 添加库文件路径
+add_executable(app main.cpp)                        # 创建可执行文件
+target_link_libraries(app PUBLIC animal_dynamic)    # 链接动态库
+

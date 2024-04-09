@@ -1,0 +1,2 @@
+D:\PROGRA~2\mingw-64\MINGW6~2\bin\ar.exe qc C:\Users\ZHQI\Desktop\learn_cmake\07-lib_project\lib\libanimal_static.a CMakeFiles/animal_static.dir/src/animal/cat.cpp.obj CMakeFiles/animal_static.dir/src/animal/dog.cpp.obj
+D:\PROGRA~2\mingw-64\MINGW6~2\bin\ranlib.exe C:\Users\ZHQI\Desktop\learn_cmake\07-lib_project\lib\libanimal_static.a

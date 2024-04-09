@@ -1,0 +1,1 @@
+add_library(AnimalLib dog.cpp cat.cpp) # 创建库

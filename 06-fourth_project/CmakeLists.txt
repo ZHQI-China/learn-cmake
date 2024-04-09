@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.20)
+project(Animal CXX)
+
+add_subdirectory(animal)# 添加子目录
+add_executable(Animal main.cpp) # 创建可执行文件
+
+# 方式1：一个库
+# target_link_libraries(Animal PUBLIC animal_obj)# 链接库
+
+# 方式2：多个库
+target_link_libraries(Animal PUBLIC dog_obj cat_obj)# 链接库
